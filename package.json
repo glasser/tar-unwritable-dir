@@ -1,0 +1,8 @@
+{
+  "name": "tar-unwritable-dir",
+  "version": "1.0.0",
+  "dependencies": {
+    "tar": "1.0.1",
+    "tmp": "0.0.24"
+  }
+}
